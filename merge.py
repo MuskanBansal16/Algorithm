@@ -1,5 +1,5 @@
 #recurvsive algo
-
+#merging is done in posr order traverse left->right->root
 
 
 def Merge(arr,low,mid,high):
