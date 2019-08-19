@@ -1,5 +1,6 @@
 #recurvsive algo
 #merging is done in posr order traverse left->right->root
+#time complexity is O(nlogn)
 
 
 def Merge(arr,low,mid,high):
