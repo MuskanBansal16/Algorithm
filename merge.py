@@ -1,6 +1,8 @@
 #recurvsive algo
 #merging is done in posr order traverse left->right->root
 #time complexity is O(nlogn)
+#useful for linked list
+#order of duplicates are mantained, stable
 
 
 def Merge(arr,low,mid,high):
